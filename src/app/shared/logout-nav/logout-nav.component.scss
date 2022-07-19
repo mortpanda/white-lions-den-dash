@@ -22,11 +22,11 @@
         position: fixed!important;
         top:1%!important;
         right:2%!important;
-        // background-color: transparent!important;
-        // border-color: darkgrey!important;
-
-        background-color: #00297A!important;
+        background-color: transparent!important;
         border-color: darkgrey!important;
+
+        // background-color: #00297A!important;
+        // border-color: darkgrey!important;
         
     }
 }
@@ -39,8 +39,14 @@
         
         border-color: darkgrey!important;
         .p-button-label{
-            // color:black!important;
-            color:#00297A!important;
+            color:black!important;
+            // color:#00297A!important;
         }
     }
+}
+
+.toolbarBanner{
+    width:200px!important;
+    height:auto!important;
+    border-radius: 5px!important;
 }
